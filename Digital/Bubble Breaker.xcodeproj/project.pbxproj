@@ -445,7 +445,7 @@
 				GCC_PREFIX_HEADER = "Bubble Breaker/Bubble Breaker-Prefix.pch";
 				INFOPLIST_FILE = "Bubble Breaker/Bubble Breaker-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.bubblebrick.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.bubble2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -461,7 +461,7 @@
 				GCC_PREFIX_HEADER = "Bubble Breaker/Bubble Breaker-Prefix.pch";
 				INFOPLIST_FILE = "Bubble Breaker/Bubble Breaker-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.digital.bubblebrick.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.bubble2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
